@@ -9,10 +9,10 @@
         <version>2.1.7.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>bl2-sistemas</groupId>
-    <artifactId>ecommerce-bl2</artifactId>
+    <groupId>projeto-spring-boot</groupId>
+    <artifactId>ecommerce</artifactId>
     <version>1.0</version>
-    <name>ecommerce-bl2</name>
+    <name>ecommerce</name>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
